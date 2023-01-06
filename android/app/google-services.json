@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618783365886",
+    "project_id": "musicpalyer-ada27",
+    "storage_bucket": "musicpalyer-ada27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618783365886:android:5758b51d9b83ee3e9223af",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618783365886-dbfgf04tcg564emj5vl8pcspodretv6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CUE7nGEqM5pcJKdqJDps8P1N_3AgPKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618783365886-dbfgf04tcg564emj5vl8pcspodretv6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
